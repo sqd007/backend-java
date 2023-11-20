@@ -10,13 +10,8 @@ Nós temos um modelo de banco de dados completo para atender uma aplicação com
 • Java script
 • HTML
 
-# Acesso na plataforma
-Link para nosso site online: 
-
 
 ## Pontos de melhorias
-
-
 
 O Match Work está evoluindo, não apenas como uma plataforma de trabalho, mas como um ambiente inclusivo onde todas as pessoas, independentemente de suas capacidades, podem se conectar e prosperar. Estamos ansiosos para receber feedbacks contínuos da nossa comunidade à medida que continuamos a moldar o Match Work para ser um espaço verdadeiramente acessível e acolhedor para todos.
 
@@ -28,7 +23,6 @@ O Match Work está evoluindo, não apenas como uma plataforma de trabalho, mas c
 
 
 Juntos, estamos construindo um futuro mais inclusivo e acessível no Match Work.
-
 
 
 # Futuras Melhorias 
