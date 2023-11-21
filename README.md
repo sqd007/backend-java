@@ -11,7 +11,7 @@ Nós temos um modelo de banco de dados completo para atender uma aplicação com
 • HTML
 
 ## Acesso na plataforma 
-Link para acessar nosso site:[MatchWork](https://sqd007.github.io/match-work/index.html)
+Link para acessar nosso site: [MatchWork](https://sqd007.github.io/match-work/index.html)
 
 ## Pontos de melhorias
 
