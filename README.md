@@ -10,6 +10,13 @@ Nós temos um modelo de banco de dados completo para atender uma aplicação com
 • Java script
 • HTML
 
+## Plataformas Utilizadas
+• [Trello](https://trello.com/b/gARZ7D27/match-work)
+• Canva
+• GitHub
+• Intellij
+• Google Meet
+
 ## Acesso na plataforma 
 Link para acessar nosso site: [MatchWork](https://sqd007.github.io/match-work/index.html)
 
