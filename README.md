@@ -11,7 +11,7 @@ Nós temos um modelo de banco de dados completo para atender uma aplicação com
 • HTML
 
 ## Plataformas Utilizadas
-• [Trello](https://trello.com/b/gARZ7D27/match-work)
+• Trello
 • Canva
 • GitHub
 • Intellij
